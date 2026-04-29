@@ -1,7 +1,8 @@
 <img src="Republic_of_Moldova_banner.jpg" width="100%" height="250" style="object-fit: cover;">
+
 ## Salut, Ciao, Hola, Hallo, Hello
 
-**I am WebbMaps. A GIS enthusiast attempting to stay as anonymous as possible in this day and age.**
+**I am WebbMaps.** A GIS enthusiast attempting to stay as anonymous as possible in this day and age.**
 
 I'm a GIS graduate with a minor in Geospatial Intelligence, passionate about maps, spatial data, and the stories they tell.
 
@@ -12,9 +13,7 @@ I'm a GIS graduate with a minor in Geospatial Intelligence, passionate about map
 - 🚁 FAA Part 107 certified drone pilot (drone mapping & imagery)  
 - 🌍 Interested in anthropogenic change detection and how human activity reshapes landscapes  
 - 🌪️ Fascinated by natural events and spatial analysis for understanding their impact  
-
-## 📚 Lifelong Learner
-I’m always looking for MOOCs and free GIS courses to keep building and sharpening my skills.
+- 📚 Lifelong Learner. I’m always looking for MOOCs and free GIS courses to keep building and sharpening my skills.
 
 ## 🔍 Interests
 - Change detection & temporal analysis  
