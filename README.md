@@ -2,9 +2,9 @@
 
 ## Salut, Ciao, Hola, Hallo, Hello
 
-**I am WebbMaps.** A GIS enthusiast attempting to stay as anonymous as possible in this day and age.**
+I am WebbMaps. A GIS enthusiast attempting to stay as anonymous as possible in this day and age.
 
-I'm a GIS graduate with a minor in Geospatial Intelligence, passionate about maps, spatial data, and the stories they tell.
+I'm a GIS graduate with a minor in Geospatial Intelligence, highly interested in maps, spatial data, and the stories they tell.
 
 ## 🧭 About Me
 - 🎓 Background in Geographic Information Systems (GIS) & Geospatial Intelligence  
