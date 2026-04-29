@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Republic_of_Moldova_banner.jpg" width="100%" height="250" style="object-fit: cover;">
+<img src="Republic_of_Moldova_banner.jpg" width="100%" height="250" style="object-fit: cover;">
 ## Salut, Ciao, Hola, Hallo, Hello
 
 **I am WebbMaps. A GIS enthusiast attempting to stay as anonymous as possible in this day and age.**
